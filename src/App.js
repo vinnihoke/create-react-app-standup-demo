@@ -14,7 +14,7 @@ function App() {
   }, []);
   return (
     <main>
-      <h2>Welcome Skye!!!!</h2>
+      <h2>Hello Clara!</h2>
     </main>
   );
 }
